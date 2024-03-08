@@ -1,0 +1,9 @@
+{
+  "name": "@lek268872/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@lek268872",
+  "repository": "https://github.com/lek268872/tea-xyz-quest.git",
+  "license": "ISC"
+}
